@@ -1,5 +1,11 @@
 # Predict Bike Sharing Demand with AutoGluon
 
+# Bike Sharing Demand by Barak Diker 
+
+For this project one should enter the folder my_project and observe the notebook inside 
+
+
+
 ## AWS Machine Learning Engineer Nanodegree
 
 ## Overview
